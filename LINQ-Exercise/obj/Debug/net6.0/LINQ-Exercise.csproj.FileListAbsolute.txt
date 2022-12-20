@@ -1,0 +1,15 @@
+C:\Users\jessg\Desktop\Repos\LINQ-Exercise\LINQ-Exercise\bin\Debug\net6.0\LINQ-Exercise.exe
+C:\Users\jessg\Desktop\Repos\LINQ-Exercise\LINQ-Exercise\bin\Debug\net6.0\LINQ-Exercise.deps.json
+C:\Users\jessg\Desktop\Repos\LINQ-Exercise\LINQ-Exercise\bin\Debug\net6.0\LINQ-Exercise.runtimeconfig.json
+C:\Users\jessg\Desktop\Repos\LINQ-Exercise\LINQ-Exercise\bin\Debug\net6.0\LINQ-Exercise.dll
+C:\Users\jessg\Desktop\Repos\LINQ-Exercise\LINQ-Exercise\bin\Debug\net6.0\LINQ-Exercise.pdb
+C:\Users\jessg\Desktop\Repos\LINQ-Exercise\LINQ-Exercise\obj\Debug\net6.0\LINQ-Exercise.csproj.AssemblyReference.cache
+C:\Users\jessg\Desktop\Repos\LINQ-Exercise\LINQ-Exercise\obj\Debug\net6.0\LINQ-Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessg\Desktop\Repos\LINQ-Exercise\LINQ-Exercise\obj\Debug\net6.0\LINQ-Exercise.AssemblyInfoInputs.cache
+C:\Users\jessg\Desktop\Repos\LINQ-Exercise\LINQ-Exercise\obj\Debug\net6.0\LINQ-Exercise.AssemblyInfo.cs
+C:\Users\jessg\Desktop\Repos\LINQ-Exercise\LINQ-Exercise\obj\Debug\net6.0\LINQ-Exercise.csproj.CoreCompileInputs.cache
+C:\Users\jessg\Desktop\Repos\LINQ-Exercise\LINQ-Exercise\obj\Debug\net6.0\LINQ-Exercise.dll
+C:\Users\jessg\Desktop\Repos\LINQ-Exercise\LINQ-Exercise\obj\Debug\net6.0\refint\LINQ-Exercise.dll
+C:\Users\jessg\Desktop\Repos\LINQ-Exercise\LINQ-Exercise\obj\Debug\net6.0\LINQ-Exercise.pdb
+C:\Users\jessg\Desktop\Repos\LINQ-Exercise\LINQ-Exercise\obj\Debug\net6.0\LINQ-Exercise.genruntimeconfig.cache
+C:\Users\jessg\Desktop\Repos\LINQ-Exercise\LINQ-Exercise\obj\Debug\net6.0\ref\LINQ-Exercise.dll
